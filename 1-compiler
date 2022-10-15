@@ -1,0 +1,1 @@
+cc -cfile1.c file4.c
